@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-11T13:24:23.350052+08:00",
-  "total_titles_processed": 1229,
+  "generated_at": "2025-12-11T14:36:06.420487+08:00",
+  "total_titles_processed": 1339,
   "failed_sources": [],
   "trends": [
     {
@@ -40,8 +40,21 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时36分 ~ 13时24分]"
+          "appearance_count": 4,
+          "time_info": "[12时36分 ~ 14时36分]"
+        },
+        {
+          "title": "特朗普炮轰美联储决议：降息幅度太小，本应至少翻倍！",
+          "url": "https://www.cls.cn/detail/2225986",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时45分 ~ 14时36分]"
         },
         {
           "title": "高市早苗求见特朗普",
@@ -134,19 +147,6 @@
           "time_info": "[06时22分 ~ 07时19分]"
         },
         {
-          "title": "特朗普炮轰美联储决议：降息幅度太小，本应至少翻倍！",
-          "url": "https://www.cls.cn/detail/2225986",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时45分 ~ 13时24分]"
-        },
-        {
           "title": "特朗普向哥伦比亚总统发出威胁：“他将是下一个”",
           "url": "https://flash.jin10.com/detail/20251211054743918800",
           "source": "金十数据",
@@ -234,7 +234,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时24分"
         },
@@ -245,7 +245,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时24分"
         },
@@ -575,6 +575,17 @@
       "match_count": 18,
       "titles": [
         {
+          "title": "美联储降息，鲍威尔言论比预期温和，美股三大指数收涨，白银再创新高，原油V形反转",
+          "url": "https://wallstreetcn.com/articles/3761091",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时45分 ~ 14时36分]"
+        },
+        {
           "title": "决议前夕美股期指窄幅震荡 华尔街等待鲍威尔亮出底牌 | 今夜看点",
           "url": "https://www.cls.cn/detail/2225788",
           "source": "财联社热门",
@@ -587,17 +598,6 @@
           "time_info": "[01时24分 ~ 07时19分]"
         },
         {
-          "title": "美联储降息，鲍威尔言论比预期温和，美股三大指数收涨，白银再创新高，原油V形反转",
-          "url": "https://wallstreetcn.com/articles/3761091",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时45分 ~ 13时24分]"
-        },
-        {
           "title": "美股收盘：标普500逼近历史新高 市场对未来更多宽松寄予希望",
           "url": "https://www.cls.cn/detail/2225967",
           "source": "财联社热门",
@@ -606,8 +606,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时19分 ~ 13时24分]"
+          "appearance_count": 7,
+          "time_info": "[07时19分 ~ 14时36分]"
         },
         {
           "title": "金十图示：2025年12月10日（周三）美股热门股票行情一览（美股收盘）",
