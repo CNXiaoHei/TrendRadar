@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-17T19:22:16.578148+08:00",
-  "total_titles_processed": 1760,
+  "generated_at": "2025-12-17T20:47:45.568939+08:00",
+  "total_titles_processed": 1887,
   "failed_sources": [],
   "trends": [
     {
@@ -65,6 +65,19 @@
           "time_info": "[00时31分 ~ 12时34分]"
         },
         {
+          "title": "特朗普有“酒鬼性格”，万斯“阴谋论者”，马斯克“嗑药的怪人”...“白宫大管家”的炸裂采访爆了",
+          "url": "https://wallstreetcn.com/articles/3761525",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[13时24分 ~ 20时47分]"
+        },
+        {
           "title": "特朗普政府宣布对40国实施入境限制",
           "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E5%BA%9C%E5%AE%A3%E5%B8%83%E5%AF%B940%E5%9B%BD%E5%AE%9E%E6%96%BD%E5%85%A5%E5%A2%83%E9%99%90%E5%88%B6",
           "source": "bilibili 热搜",
@@ -100,18 +113,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时31分 ~ 07时21分]"
-        },
-        {
-          "title": "特朗普有“酒鬼性格”，万斯“阴谋论者”，马斯克“嗑药的怪人”...“白宫大管家”的炸裂采访爆了",
-          "url": "https://wallstreetcn.com/articles/3761525",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时24分 ~ 19时22分]"
         },
         {
           "title": "释新闻｜泰国否认对柬埔寨停火，为什么特朗普的电话不管用？",
@@ -908,6 +909,45 @@
       ]
     },
     {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "美国贸易代表：迄今为止享有市场准入的一些最大欧盟服务提供商包括埃森哲、阿马迪斯（Amadeus）、凯捷（Capgemini）、敦豪（DHL）、Mistral、阳狮集团（Publicis）、SAP、西门子和Spotify。",
+          "url": "https://flash.jin10.com/detail/20251217021002477800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时38分"
+        },
+        {
+          "title": "如何评价谷歌发布的全新机器学习范式嵌套学习 (Nested Learning)？",
+          "url": "https://www.zhihu.com/question/1970631480595190298",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时47分"
+        },
+        {
+          "title": "OpenAI和谷歌通过免费赠品争夺印度用户和训练数据",
+          "url": "https://wallstreetcn.com/livenews/3022400",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时47分"
+        }
+      ]
+    },
+    {
       "keyword_group": "金价",
       "match_count": 2,
       "titles": [
@@ -1007,23 +1047,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时41分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美国贸易代表：迄今为止享有市场准入的一些最大欧盟服务提供商包括埃森哲、阿马迪斯（Amadeus）、凯捷（Capgemini）、敦豪（DHL）、Mistral、阳狮集团（Publicis）、SAP、西门子和Spotify。",
-          "url": "https://flash.jin10.com/detail/20251217021002477800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时38分"
         }
       ]
     },
