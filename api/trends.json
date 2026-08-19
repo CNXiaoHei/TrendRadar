@@ -1,11 +1,171 @@
 {
-  "generated_at": "2026-08-19T09:53:10.714178+08:00",
-  "total_titles_processed": 504,
+  "generated_at": "2026-08-19T20:56:54.220444+08:00",
+  "total_titles_processed": 773,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "美股",
+      "match_count": 14,
+      "titles": [
+        {
+          "title": "债市风暴持续，美股指三连跌，泛欧股指五连跌，美芯片指数重挫5%，原油三连涨",
+          "url": "https://wallstreetcn.com/articles/3779677",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时52分 ~ 20时56分]"
+        },
+        {
+          "title": "【早报】美股存储、光通信板块大幅回落；原油上涨、黄金走低；宇树科技今日上市",
+          "url": "https://www.cls.cn/detail/2457709",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时52分 ~ 09时53分]"
+        },
+        {
+          "title": "美股收盘：AI牛股集体重挫 医药、红利、软件板块轮动走强",
+          "url": "https://www.cls.cn/detail/2457697",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时52分 ~ 09时53分]"
+        },
+        {
+          "title": "美股三大股指全线收跌",
+          "url": "https://www.douyin.com/hot/2614994",
+          "source": "抖音",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时52分 ~ 09时53分]"
+        },
+        {
+          "title": "中东停火前景黯淡 美股能源板块再度冲向历史高位",
+          "url": "https://www.cls.cn/detail/2457651",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时52分 ~ 09时53分]"
+        },
+        {
+          "title": "美股",
+          "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1&t=31&band_rank=15&Refer=top",
+          "source": "微博",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时23分 ~ 06时24分]"
+        },
+        {
+          "title": "股债市场短暂喘息，美股盘前存储芯片股普涨，SK海力士涨约6%，Moderna涨超80%，油价四连涨",
+          "url": "https://wallstreetcn.com/articles/3779750",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时56分"
+        },
+        {
+          "title": "美股盘前三大股指期货集体翻红",
+          "url": "https://www.douyin.com/hot/2615877",
+          "source": "抖音",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时56分"
+        },
+        {
+          "title": "金十数据整理：每日美股市场要闻速递（2026-08-19）",
+          "url": "https://flash.jin10.com/detail/20260819203719059800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时56分"
+        },
+        {
+          "title": "美股大类资产类ETF多数收跌，新兴市场ETF跌超2.9%，黄金ETF跌1.7%",
+          "url": "https://wallstreetcn.com/livenews/3151328",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时24分"
+        },
+        {
+          "title": "美股盘前：疫苗股大涨，Moderna涨102%",
+          "url": "https://wallstreetcn.com/livenews/3151772",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时56分"
+        },
+        {
+          "title": "周二（8月18日），美股行业ETF多数收跌，半导体ETF跌4.09%，全球科技股指数ETF跌3.08%，科技行业ETF跌2.47%，能源业ETF涨1.76%。",
+          "url": "https://wallstreetcn.com/livenews/3151324",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时24分"
+        },
+        {
+          "title": "周二（8月18日），彭博电动汽车价格回报指数跌2.50%，报3453.81点。 指数全天处于下跌状态，北京时间10:00前后显著扩大跌幅，美股开盘后迅速扩大跌幅。",
+          "url": "https://wallstreetcn.com/livenews/3151323",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时24分"
+        },
+        {
+          "title": "Nebius美股盘前跌超7%，公司拟发行45亿美元可转换债",
+          "url": "https://wallstreetcn.com/livenews/3151762",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时56分"
+        }
+      ]
+    },
+    {
       "keyword_group": "特朗普",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "特朗普发布地图，将霍尔木兹海峡划为“美国新领土”",
@@ -31,6 +191,18 @@
           "time_info": "[06时23分 ~ 09时53分]"
         },
         {
+          "title": "特朗普寻求今秋与金正恩会晤",
+          "url": "https://news.ifeng.com/c/8vi85c8Rz8H",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时52分 ~ 20时56分]"
+        },
+        {
           "title": "特朗普：不着急结束伊朗战争，若阿曼阻碍谈判、将“狠狠轰炸”，伊朗警告转向全面进攻",
           "url": "https://wallstreetcn.com/articles/3779635",
           "source": "华尔街见闻",
@@ -53,15 +225,15 @@
           "time_info": "[06时23分 ~ 06时24分]"
         },
         {
-          "title": "特朗普寻求今秋与金正恩会晤",
-          "url": "https://news.ifeng.com/c/8vi85c8Rz8H",
+          "title": "特朗普宣布：推迟3天加征关税",
+          "url": "https://news.ifeng.com/c/8viES1IRwn8",
           "source": "凤凰网",
           "ranks": [
-            5
+            3
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时52分 ~ 09时53分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时56分"
         },
         {
           "title": "加拿大总理办公室：总理卡尼周二下午与美国总统特朗普通电话，讨论贸易磋商事宜。",
@@ -83,8 +255,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时23分 ~ 09时53分]"
+          "appearance_count": 5,
+          "time_info": "[06时23分 ~ 20时56分]"
         },
         {
           "title": "特朗普反复要求CNN记者别吵：“假新闻，你闭嘴”",
@@ -149,7 +321,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时53分"
         }
@@ -157,7 +329,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "伊朗将重拳出击，霍尔木兹海峡上演猫鼠游戏",
@@ -216,6 +388,17 @@
           "time_info": "06时24分"
         },
         {
+          "title": "报道：伊朗启动铁路运输通道 将伊拉克成品油运往土耳其",
+          "url": "https://wallstreetcn.com/livenews/3151781",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时56分"
+        },
+        {
           "title": "伊朗外交部发言人警告称存在”假旗行动”，并指责（阿联酋）相关指控”毫无根据”。",
           "url": "https://wallstreetcn.com/livenews/3151334",
           "source": "华尔街见闻-快讯",
@@ -255,7 +438,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时53分"
         },
@@ -273,113 +456,8 @@
       ]
     },
     {
-      "keyword_group": "美股",
-      "match_count": 9,
-      "titles": [
-        {
-          "title": "债市风暴持续，美股指三连跌，泛欧股指五连跌，美芯片指数重挫5%，原油三连涨",
-          "url": "https://wallstreetcn.com/articles/3779677",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时52分 ~ 09时53分]"
-        },
-        {
-          "title": "【早报】美股存储、光通信板块大幅回落；原油上涨、黄金走低；宇树科技今日上市",
-          "url": "https://www.cls.cn/detail/2457709",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时52分 ~ 09时53分]"
-        },
-        {
-          "title": "美股收盘：AI牛股集体重挫 医药、红利、软件板块轮动走强",
-          "url": "https://www.cls.cn/detail/2457697",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时52分 ~ 09时53分]"
-        },
-        {
-          "title": "美股三大股指全线收跌",
-          "url": "https://www.douyin.com/hot/2614994",
-          "source": "抖音",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时52分 ~ 09时53分]"
-        },
-        {
-          "title": "中东停火前景黯淡 美股能源板块再度冲向历史高位",
-          "url": "https://www.cls.cn/detail/2457651",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时52分 ~ 09时53分]"
-        },
-        {
-          "title": "美股",
-          "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1&t=31&band_rank=15&Refer=top",
-          "source": "微博",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时23分 ~ 06时24分]"
-        },
-        {
-          "title": "美股大类资产类ETF多数收跌，新兴市场ETF跌超2.9%，黄金ETF跌1.7%",
-          "url": "https://wallstreetcn.com/livenews/3151328",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时24分"
-        },
-        {
-          "title": "周二（8月18日），美股行业ETF多数收跌，半导体ETF跌4.09%，全球科技股指数ETF跌3.08%，科技行业ETF跌2.47%，能源业ETF涨1.76%。",
-          "url": "https://wallstreetcn.com/livenews/3151324",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时24分"
-        },
-        {
-          "title": "周二（8月18日），彭博电动汽车价格回报指数跌2.50%，报3453.81点。 指数全天处于下跌状态，北京时间10:00前后显著扩大跌幅，美股开盘后迅速扩大跌幅。",
-          "url": "https://wallstreetcn.com/livenews/3151323",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时24分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美债",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "全球股债齐挫！美股低开、存储芯片股普跌，30年期美债收益率创07年以来新高，油价上行、金银走弱",
@@ -413,6 +491,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时23分 ~ 06时24分]"
+        },
+        {
+          "title": "全球瞩目！美联储会议纪要今夜来袭 能否抑制“美债风暴”？",
+          "url": "https://www.cls.cn/detail/2458004",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时56分"
         },
         {
           "title": "油价与通胀担忧推升美债收益率 美股三大期指集体走低 芯片股回调 | 今夜看点",
@@ -466,15 +555,26 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时53分"
+        },
+        {
+          "title": "美国财政部公布回购相关计划后，美债收益率曲线大幅趋平。",
+          "url": "https://flash.jin10.com/detail/20260819203850216800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时56分"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
+      "match_count": 5,
       "titles": [
         {
           "title": "谷歌称其AI可承担前沿部署工程师的工作",
@@ -488,6 +588,17 @@
           "time_info": "06时24分"
         },
         {
+          "title": "迈威尔科技美股盘前涨近9%，公司向谷歌发行可购买至多5897万股股票的认股权证",
+          "url": "https://wallstreetcn.com/livenews/3151791",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时56分"
+        },
+        {
           "title": "据The Information：谷歌(GOOG.O)称其AI可完成前线部署工程师的部分工作。",
           "url": "https://flash.jin10.com/detail/20260819053144316800",
           "source": "金十数据",
@@ -497,6 +608,106 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时24分"
+        },
+        {
+          "title": "迈威尔科技(MRVL.O)美股盘前上涨11%，公司与谷歌达成定制芯片协议。",
+          "url": "https://flash.jin10.com/detail/20260819203655065800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时56分"
+        },
+        {
+          "title": "博通(AVGO.O)盘前下跌3.4%，因迈威尔科技与谷歌达成定制芯片协议。",
+          "url": "https://flash.jin10.com/detail/20260819203123832800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时56分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "DeepSeek Harness 轻松破了 GitHub 记录，它能引发一场什么革命？",
+          "url": "https://www.zhihu.com/question/2072997638685864311",
+          "source": "知乎",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时56分"
+        },
+        {
+          "title": "宇树上市首日造富：天使投资人账面回报超800倍 DeepSeek配售浮盈近7亿元",
+          "url": "https://www.cls.cn/detail/2458007",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时56分"
+        },
+        {
+          "title": "“价格屠夫”梁文锋“收刀”",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E4%BB%B7%E6%A0%BC%E5%B1%A0%E5%A4%AB%E2%80%9D%E6%A2%81%E6%96%87%E9%94%8B%E2%80%9C%E6%94%B6%E5%88%80%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时56分"
+        },
+        {
+          "title": "梁文锋打新宇树科技浮盈11亿，雷军赚152亿，美团系浮盈333亿，大疆痛失超250亿",
+          "url": "https://wallstreetcn.com/articles/3779762",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时56分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "美元指数DXY日内跌超0.50%，现报99.15。欧元兑美元EUR/USD日内涨幅扩大至0.50%，现报1.1632。",
+          "url": "https://flash.jin10.com/detail/20260819204856285800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时56分"
+        },
+        {
+          "title": "美元指数DXY一度跌至11周低点99.155，现报99.23。欧元兑美元EUR/USD上涨至10周高点1.1629。",
+          "url": "https://flash.jin10.com/detail/20260819204341391800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时56分"
         }
       ]
     },
@@ -509,11 +720,12 @@
           "url": "https://wallstreetcn.com/articles/3779748",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时52分 ~ 09时53分]"
+          "appearance_count": 3,
+          "time_info": "[09时52分 ~ 20时56分]"
         }
       ]
     }
